@@ -136,8 +136,10 @@ aside img {
 
 /* the styles for the footer */
 footer {
-	border-top: 3px solid #800000;
-	clear: both;
+    background-color: #931420;
+    clear: both;
+}
+
 }
 footer p {
 	padding: 1em 0;
